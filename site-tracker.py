@@ -29,7 +29,7 @@ print(f"""
 				  ____) | | ||  __/    | | | | (☻| | (__|   <  __/ |   
 				 |_____/|_|\__\___|    |_|_|  \__,_|\___|_|\_\___|_| 
 	
-				 {bcolors.UNDERLINE}Akila Bandara 2020 (c) www.twitter.com/@akilaontweet{bcolors.ENDC}
+				 {bcolors.UNDERLINE}Ojilolo 2020 (c) www.twitter.com/@ojilolotweet{bcolors.ENDC}
 				 {bcolors.OKGREEN}---------------------------------------------------
 				 	 {bcolors.OKGREEN}Let's track all websites and get IP!
 				 		#SiteTrackerByAkila 
